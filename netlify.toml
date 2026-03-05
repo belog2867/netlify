@@ -3,4 +3,7 @@ from = "/"
 to = "http://uc6.838380.xyz:2011/:splat"
 status = 200
 force = true
-headers = { Host = "radiant-gecko-b5f4bd.netlify.app" }
+[[headers]]
+for = "/"
+[headers.values]
+Host = "radiant-gecko-b5f4bd.netlify.app"

@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "http://jp.838380.xyz:11944/:splat"
+  to = "http://uc6.838380.xyz:2011/:splat"
   status = 200
   force = true

@@ -1,10 +1,10 @@
 [[redirects]]
 from = "/*"
-to = "http://jp.838380.xyz:11944/:splat"
+to = "http://uc4.838380.xyz:2011/:splat"
 status = 200
 force = true
-headers = { Host = "radiant-gecko-b5f4bd.netlify.app" }
+headers = { host = "radiant-gecko-b5f4bd.netlify.app" }
 [[headers]]
 for = "/*"
 [headers.values]
-Host = "radiant-gecko-b5f4bd.netlify.app"
+host = "radiant-gecko-b5f4bd.netlify.app"
